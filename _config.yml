@@ -20,7 +20,7 @@ title                    : "Jihye's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jihye"
-description              : "Department of Statistics, Ewha Womans University"
+description              : # 
 url                      : "https://jihye0115.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Jihye"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  bio              : "Department of Statistics, Ewha Womans University"
   location         : # "Somewhere"
   email            :
   links:
